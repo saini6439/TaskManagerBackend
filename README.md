@@ -4,7 +4,7 @@
 In Config File and add your mongo db credentials. in loaders/mongodb.js add uri "mongodb://localhost:27017/task-manager(dbname://host:prt/dbname).
 then go to main directory run command "npm i". then after this run node app.js .
 
-then go into your mongo db console. and then select task-manager and inster below data into userschema.
+then go into your mongo db console. and then select task-manager and inster below data into users.
 {
     "_id" : ObjectId("5fd9bda197e46363b4d50b96"),
     "api_key" : "8P2918W-VK24E0J-K103CBB-JKWETCX",
